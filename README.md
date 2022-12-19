@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gediononsongo@gmail.com**
 
-- 📄 Know about my experiences [https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/](https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/)
+- 📄 Know about my experiences [https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/](gediononsongo.me)
 
 - ⚡ Fun fact **NoBoDy SmArT pLaYs FaIr**
 
