@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gediononsongo@gmail.com**
 
-- 📄 Know about my experiences [Personal Portfolio](gediononsongo.me)
+- 📄 Know about my experiences [http://gediononsongo.me/](gediononsongo.me)
 
 - ⚡ Fun fact **NoBoDy SmArT pLaYs FaIr**
 
