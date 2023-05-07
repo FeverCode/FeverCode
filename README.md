@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/giddy_lancs" target="blank"><img src="https://img.shields.io/twitter/follow/giddy_lancs?logo=twitter&style=for-the-badge" alt="giddy_lancs" /></a> </p>
 
-- 🔭 I’m currently working on [Nairobi Spaces](https://nairobi-spaces.up.railway.app/)
+- 🔭 I’m currently working on [Farm Share](https://farmshare.co.ke/)
 
 - 🌱 I’m currently learning **Django REST framework**
 
-- 👯 I’m looking to collaborate on [Nairobi Spaces](https://nairobi-spaces.up.railway.app/)
+- 👯 I’m looking to collaborate on [Farm Share](https://farmshare.co.ke/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/FeverCode](https://github.com/FeverCode)
 
